@@ -6,3 +6,5 @@
 
 ## Instructions
 *peel the avocado
+*put avocado into the bowl 
+
